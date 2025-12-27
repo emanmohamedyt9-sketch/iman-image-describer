@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Describer - Eman Mohamed",
+  "description": "Smart tool for automatic image description using Gemini AI. Use your own API Key to get accurate and detailed descriptions for any image.",
+  "requestFramePermissions": []
+}
